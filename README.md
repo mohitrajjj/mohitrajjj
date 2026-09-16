@@ -15,8 +15,11 @@ Currently looking for an entry-level role in software development, data analytic
 ## Skills
 
 **Languages:** Python, JavaScript,  Java
+
 **Web & Mobile:** React, Node.js/Express, MongoDB, SQL, Flutter
+
 **ML/Data:** XGBoost, scikit-learn, PyTorch, TensorFlow, Power BI, Tableau
+
 **Tools:** Docker, Git, CI/CD (GitHub Actions)
 
 ## Contact
