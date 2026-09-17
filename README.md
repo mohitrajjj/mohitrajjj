@@ -29,3 +29,4 @@ Currently looking for an entry-level role in software development, data analytic
 - LinkedIn: [linkedin.com/in/mohit-rajj](https://linkedin.com/in/mohit-rajj)
 - LeetCode: [leetcode.com/u/vduZBjuexI](https://leetcode.com/u/vduZBjuexI/)
 - Resume: [Mohit_Raj_Resume.pdf](Mohit_Raj_Resume.pdf)
+- Certifications: [github.com/mohitrajjj/Certifications](https://github.com/mohitrajjj/Certifications)
